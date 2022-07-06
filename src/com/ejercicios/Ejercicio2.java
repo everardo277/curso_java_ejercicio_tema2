@@ -4,7 +4,7 @@ public class Ejercicio2 {
 
     public static void main(String[] args) {
 
-        double precioIva = precioIva(12.75);
+        double precioIva = precioIva(8.45);
         System.out.println("El precio mas iva es de : " + precioIva);
     }
 
